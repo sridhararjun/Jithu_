@@ -1,0 +1,4 @@
+
+> Desktop@1.0.0 build C:\Users\Sribi\Desktop\Sowmya_Jlers
+> tsc
+
